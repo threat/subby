@@ -48,4 +48,10 @@ python3 subpy.py -f file.txt
 - developed with ❤️ from [criminal.sh](https://criminal.sh)
 - credits go respectfully and with love to [Project Discovery](https://github.com/projectdiscovery/httpx) for the httpx go binary, and for the developers of the [Beautiful Soup](https://pypi.org/project/beautifulsoup4/) and [requests](https://pypi.org/project/requests/) python modules!
 - credits also go to [myssl.com](https://myssl.com), [rapiddns.io](https://rapiddns.io), [hackertarget.com](https://hackertarget.com), [jldc.me](https://jldc.me), and [alienvault.com](https://alienvault.com) for providing the APIs needed for the data aggregation.
-- shoutout to c (providing original modules) and wazzy for the idea, wouldn't be here without you both. 
+- shoutout to c (providing original modules) and wazzy for the idea, wouldn't be here without you both.
+
+## TODO 
+
+- improve regex rules
+- add sitedossier, crt.sh, archive.org as aggregators
+- multiprocessing for multiple domains (chunk each domain scan into a seperate process to run concurrent with the rest)
