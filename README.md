@@ -42,6 +42,8 @@ python3 subpy.py -f file.txt
 
 ![image_example](https://i.ibb.co/ng6F2VC/image.png)
 
+## multiple domains
+![image_example](https://i.ibb.co/VSNJHWY/image.png)
 
 ## Credits
 
