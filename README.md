@@ -23,6 +23,7 @@ pip install -r requirements.txt
 
 ```bash
 go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 ```
 
 ## Running the script
