@@ -31,11 +31,11 @@ go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 After installing all of the required packages and binaries, you can either scan a singular domain or run multiple from a text file. 
 
 ```bash
-python3 subpy.py -d example.com
+python3 subbpy.py -d example.com
 ```
 or 
 ```
-python3 subpy.py -f file.txt
+python3 subbpy.py -f file.txt
 ```
 
 ## Visual Demo
